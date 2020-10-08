@@ -1,4 +1,4 @@
-# Loading JavaScript on Document Load
+# Loading JavaScript on Document Load 
 
 ## Learning Goals
 
